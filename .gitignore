@@ -1,0 +1,10 @@
+# Ignore build
+target/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+
+# Ignore OS_generated files
+.DS_Store
+Thums.db 
